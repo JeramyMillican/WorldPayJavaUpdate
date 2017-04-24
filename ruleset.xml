@@ -1,0 +1,5 @@
+<ruleset version="1.0+">
+  <rule>
+    <id location="https://tf.lynk-systems.com/" />
+    <action permission="run" />
+  </rule>
